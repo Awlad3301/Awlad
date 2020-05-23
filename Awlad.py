@@ -1,10 +1,3 @@
-#!/usr/bin/python2
-#coding=utf-8
-#The Credit For This Code Goes To Rana Aahil
-#If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
-
-
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
